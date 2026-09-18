@@ -409,7 +409,7 @@ body {
 .card-thumbnail {
   position: relative;
   background-color: var(--bg-image-dark);
-  background: radial-gradient(circle at top right, #1e293b, #090d16);
+  background: #0f172a url('course-bg.jpg') center / cover no-repeat;
   aspect-ratio: 16 / 10;
   padding: 16px;
   display: flex;
